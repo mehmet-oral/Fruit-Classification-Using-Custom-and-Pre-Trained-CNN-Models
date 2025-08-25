@@ -5,8 +5,8 @@ This project implements a complete deep learning pipeline for fruit image classi
 
 Dataset Structure
 The dataset is organized into two main directories:
-- Training/ - Contains subfolders for each fruit class with training images
-- Test/ - Contains subfolders for each fruit class with testing images
+- Training - Contains subfolders for each fruit class with training images
+- Test - Contains subfolders for each fruit class with testing images
 
 Each class has its own folder named after the fruit type (e.g., "apple", "banana", etc.).
 
